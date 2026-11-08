@@ -1,5 +1,7 @@
 # linkedin-mcp-lost-deal-reengagement
 
+> **Part of the [AI SDR Kit](https://github.com/zevarihq/ai-sdr-kit), the open-source AI SDR harness.** Install the kit to give your agent the whole outbound playbook (setup SOP and every LinkedIn and email sequence), then run this play on top of it.
+
 A Claude Code prompt that runs weekly against your "Closed Lost" CRM filter and surfaces the deals worth re-engaging based on **live LinkedIn signal** — not the calendar.
 
 Sharing it because every "lost deal revival" tool I've used fires on time, and time is the wrong trigger.
